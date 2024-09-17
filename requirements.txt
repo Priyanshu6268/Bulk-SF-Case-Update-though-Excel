@@ -2,4 +2,3 @@ pandas
 openpyxl 
 pywin32 
 streamlit
-
