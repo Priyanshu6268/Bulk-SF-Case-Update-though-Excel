@@ -1,4 +1,4 @@
-pandas 
-openpyxl 
+pandas
+openpyxl
 streamlit
-pypiwin32
+pywin32==303; platform_system=="Windows"
