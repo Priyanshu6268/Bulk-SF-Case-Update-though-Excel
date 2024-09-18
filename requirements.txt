@@ -1,4 +1,4 @@
 pandas
 openpyxl
 streamlit
-pywin32==303; platform_system=="Windows"
+pywin32;sys_platform == 'win32'
